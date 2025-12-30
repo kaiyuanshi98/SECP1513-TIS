@@ -1,1 +1,4 @@
-This is my university course project: an idea and model for a second-hand website, but it is not yet applicable.
+Course information:
+Name:Technology and information System
+Course code:SECP1513
+Lecturer:Dr. Suriati binti Sadimon
